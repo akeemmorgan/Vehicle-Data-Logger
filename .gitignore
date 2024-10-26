@@ -1,0 +1,28 @@
+# Created by https://www.toptal.com/developers/gitignore/api/codeblocks
+# Edit at https://www.toptal.com/developers/gitignore?templates=codeblocks
+
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+# generated directories
+bin/
+obj/
+
+# End of https://www.toptal.com/developers/gitignore/api/codeblock
+
+*.o
+*.txt
+*.dat
+spt
+spt.cbp
+spt.layout
+*.cbp
+
+loggerdata.*
+*.exe
+*.dll
+*.pdf
+*.bat
+ceng252
+vdl
